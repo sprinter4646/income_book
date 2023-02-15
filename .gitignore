@@ -1,6 +1,3 @@
-.mypy_cache/
-venv/
-__pycache__/
 *.xlsx
 !ОФД_данные_example.xlsx
 !ШАБЛОН_КУД_ИП_example.xlsx
